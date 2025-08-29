@@ -1,0 +1,82 @@
+{
+  "name": "Rayan Farhan",
+  "contact": {
+    "email": "rayanfarhan@gmail.com",
+    "phone": "+92 333 3911178",
+    "github": "https://github.com/Rayan-Farhan",
+    "linkedin": "https://www.linkedin.com/in/rayan-farhan/"
+  },
+  "skills": [
+    "Python", "SQL", "C", "SPARQL", "Java", "C++",
+    "Machine Learning", "Deep Learning", "NLP",
+    "Computer Vision", "Data Engineering", "ETL",
+    "Airflow", "Spark", "Kafka", "Hadoop",
+    "AWS", "Azure", "GCP", "Docker", "Kubernetes",
+    "TensorFlow", "PyTorch", "Scikit-learn"
+  ],
+  "projects": [
+    { "name": "ML Pipeline Optimization", "description": "Optimized an end-to-end ML pipeline reducing training time by 40%.", "tags": ["ml", "pipeline", "optimization"] },
+    { "name": "Real-Time Fraud Detection", "description": "Built a streaming fraud detection system using Kafka and Spark.", "tags": ["data engineering", "fraud", "spark", "kafka"] },
+    { "name": "AI Chatbot", "description": "Developed an AI-powered chatbot using NLP and deep learning.", "tags": ["ai", "nlp", "chatbot"] },
+    { "name": "Image Classification API", "description": "Created a REST API serving image classification models.", "tags": ["cv", "api", "flask"] },
+    { "name": "Recommendation Engine", "description": "Built a collaborative filtering recommendation engine.", "tags": ["recommender", "ml"] },
+    { "name": "ETL Framework", "description": "Designed a reusable ETL framework using Airflow and Spark.", "tags": ["etl", "airflow", "spark"] },
+    { "name": "Healthcare Predictive Analytics", "description": "Implemented predictive models for patient readmission risks.", "tags": ["healthcare", "ml"] },
+    { "name": "Social Media Sentiment Analysis", "description": "Analyzed sentiment of tweets in real-time with NLP.", "tags": ["nlp", "sentiment", "twitter"] },
+    { "name": "IoT Data Pipeline", "description": "Developed a pipeline to process IoT sensor data at scale.", "tags": ["iot", "data engineering"] },
+    { "name": "Document Classification", "description": "Trained NLP models for document classification in legal tech.", "tags": ["nlp", "classification"] },
+    { "name": "Supply Chain Optimization", "description": "Optimized supply chain logistics using ML forecasting.", "tags": ["ml", "forecasting"] },
+    { "name": "Anomaly Detection System", "description": "Built an anomaly detection model for network security logs.", "tags": ["ml", "anomaly", "security"] },
+    { "name": "Time Series Forecasting", "description": "Implemented LSTM models for financial time series forecasting.", "tags": ["ml", "time series"] },
+    { "name": "Video Analysis Platform", "description": "Created a platform for automated video content analysis.", "tags": ["cv", "video", "deep learning"] },
+    { "name": "Knowledge Graph Builder", "description": "Constructed knowledge graphs from structured and unstructured data.", "tags": ["nlp", "graph", "knowledge"] },
+    { "name": "Chat Summarizer", "description": "Developed an NLP-based meeting/chat summarization tool.", "tags": ["nlp", "summarization"] },
+    { "name": "Weather Data Pipeline", "description": "Built pipelines to collect and analyze weather data.", "tags": ["data engineering", "weather"] },
+    { "name": "MLOps CI/CD Pipeline", "description": "Implemented CI/CD pipelines for ML model deployment.", "tags": ["mlops", "cicd", "devops"] },
+    { "name": "Voice Recognition System", "description": "Developed a voice recognition system using deep learning.", "tags": ["speech", "deep learning"] },
+    { "name": "Customer Churn Prediction", "description": "Built ML models to predict telecom customer churn.", "tags": ["ml", "customer", "classification"] }
+  ],
+  "experience": [
+    { "company": "TechCorp", "role": "Lead Data Engineer", "description": "Managed a team of engineers building large-scale ETL pipelines.", "tags": ["data engineering", "etl", "leadership"] },
+    { "company": "AI Labs", "role": "Senior Machine Learning Engineer", "description": "Designed and deployed ML models for computer vision tasks.", "tags": ["ml", "cv", "deep learning"] },
+    { "company": "DataWorks", "role": "Data Scientist", "description": "Worked on predictive analytics and machine learning solutions for clients.", "tags": ["ml", "analytics"] },
+    { "company": "CloudNet", "role": "Cloud Data Engineer", "description": "Built and optimized cloud-native data pipelines on AWS and GCP.", "tags": ["cloud", "data engineering"] },
+    { "company": "InnoTech", "role": "AI Engineer", "description": "Developed AI solutions for NLP and recommendation systems.", "tags": ["ai", "nlp", "recommender"] },
+    { "company": "SecureAI", "role": "Machine Learning Engineer", "description": "Created anomaly detection systems for cybersecurity applications.", "tags": ["ml", "security"] }
+  ],
+  "internships": [
+    { "company": "StartupX", "role": "Data Engineering Intern", "description": "Built initial data pipelines for analytics team.", "tags": ["internship", "data engineering"] },
+    { "company": "AI Startup", "role": "ML Intern", "description": "Assisted in training NLP models for chatbots.", "tags": ["internship", "ml", "nlp"] },
+    { "company": "BigData Inc", "role": "Data Intern", "description": "Worked with Hadoop and Spark clusters.", "tags": ["internship", "big data"] },
+    { "company": "VisionAI", "role": "Computer Vision Intern", "description": "Contributed to image recognition research.", "tags": ["internship", "cv"] },
+    { "company": "CloudStart", "role": "Cloud Intern", "description": "Assisted in migrating on-prem data to cloud storage.", "tags": ["internship", "cloud"] },
+    { "company": "HealthTech", "role": "AI Intern", "description": "Developed ML models for patient diagnosis predictions.", "tags": ["internship", "ml", "healthcare"] },
+    { "company": "FinTech Labs", "role": "Data Science Intern", "description": "Worked on fraud detection models for banking.", "tags": ["internship", "ml", "finance"] }
+  ],
+  "certificates": [
+    { "title": "AWS Certified Data Engineer", "issuer": "Amazon", "year": "2023", "tags": ["aws", "data engineering"] },
+    { "title": "Google Cloud Professional ML Engineer", "issuer": "Google", "year": "2023", "tags": ["gcp", "ml"] },
+    { "title": "Azure Data Engineer Associate", "issuer": "Microsoft", "year": "2022", "tags": ["azure", "data engineering"] },
+    { "title": "TensorFlow Developer Certificate", "issuer": "DeepLearning.AI", "year": "2021", "tags": ["tensorflow", "deep learning"] },
+    { "title": "PyTorch Fundamentals", "issuer": "Meta AI", "year": "2021", "tags": ["pytorch", "ml"] },
+    { "title": "Data Engineering on Google Cloud", "issuer": "Coursera", "year": "2022", "tags": ["gcp", "data engineering"] },
+    { "title": "Machine Learning Specialization", "issuer": "Stanford / Coursera", "year": "2021", "tags": ["ml"] },
+    { "title": "Deep Learning Specialization", "issuer": "DeepLearning.AI", "year": "2021", "tags": ["deep learning"] },
+    { "title": "Apache Spark Developer", "issuer": "Databricks", "year": "2022", "tags": ["spark", "big data"] },
+    { "title": "Kafka Streams Certification", "issuer": "Confluent", "year": "2022", "tags": ["kafka", "streaming"] },
+    { "title": "MLOps Foundations", "issuer": "Coursera", "year": "2023", "tags": ["mlops"] },
+    { "title": "Docker & Kubernetes Specialist", "issuer": "Udemy", "year": "2021", "tags": ["docker", "kubernetes"] },
+    { "title": "Big Data Analytics", "issuer": "edX", "year": "2020", "tags": ["big data", "analytics"] },
+    { "title": "AWS Machine Learning Specialty", "issuer": "Amazon", "year": "2022", "tags": ["aws", "ml"] },
+    { "title": "Google Professional Data Engineer", "issuer": "Google", "year": "2021", "tags": ["gcp", "data engineering"] },
+    { "title": "Natural Language Processing", "issuer": "Coursera", "year": "2020", "tags": ["nlp", "ml"] },
+    { "title": "Computer Vision with PyTorch", "issuer": "Udemy", "year": "2021", "tags": ["cv", "pytorch"] },
+    { "title": "Data Science Professional Certificate", "issuer": "IBM", "year": "2020", "tags": ["data science"] },
+    { "title": "ETL Pipelines with Airflow", "issuer": "Udemy", "year": "2021", "tags": ["airflow", "etl"] },
+    { "title": "Cloud Architect Certification", "issuer": "AWS", "year": "2023", "tags": ["aws", "cloud"] }
+  ],
+  "education": [
+    { "degree": "MSc in Artificial Intelligence", "institution": "FAST University", "year": "2021", "tags": ["ai", "ml", "computer science"] },
+    { "degree": "BS in Computer Science", "institution": "FAST University", "year": "2019", "tags": ["cs", "computer science"] }
+  ]
+}

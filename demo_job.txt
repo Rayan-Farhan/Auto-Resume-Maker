@@ -1,0 +1,1 @@
+We are looking for a Data Engineer to join our team. The ideal candidate has experience with ETL pipelines, SQL, cloud platforms (AWS, GCP, or Azure), and workflow orchestration tools like Airflow. Knowledge of Python and data modeling is required. Machine learning knowledge is a plus.
